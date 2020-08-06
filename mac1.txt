@@ -1,0 +1,5 @@
+git init
+{
+added to the mac.txt file
+commited to the mac.txt file
+}
